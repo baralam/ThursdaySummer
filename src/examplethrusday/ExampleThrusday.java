@@ -17,7 +17,8 @@ public class ExampleThrusday {
     public static void main(String[] args) {
         System.out.println("learning pull opeartions"); 
         System.out.println("learning pull and fetch opeartions");
-                System.out.println("learning fetch opeartions"); 
+        System.out.println("learning 123 fetch opeartions");
+       
 
 
     }
